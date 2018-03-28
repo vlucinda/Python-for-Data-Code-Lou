@@ -1,6 +1,6 @@
 # Python-for-Data-Code-Lou
 
-First, a thank you to 
+First, a thank you to our wonderful mentors who always welcomed questions and were generous with encouragement.  I am optimistic about my ability to learn thanks to my time with you.
 
 Description of Project
 
