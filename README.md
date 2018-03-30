@@ -13,3 +13,17 @@ The file's path changes weekly, so if the code doesn't work properly, the proble
 That crime goes up during a full moon is a belief held by many.  I have heard numerous service industry employees and police officers insist that this assertion is true.  My goal with this project was to look at the crime rate over the course of the year 2017 and see if the data reflected this common belief. 
 
 Analysis
+In 2017 full moons occured on the following dates:
+Jan 12
+Feb 10
+Mar 12
+Apr 11
+May 10
+Jun 9
+Jul 9
+Aug 7
+Sept 6
+Oct 5
+Nov 4
+Dec 3
+
